@@ -30,3 +30,8 @@ division(3, 7)
 // in order to avoid the git of the node_modules we must create a file named
 // .gitignore (with the colon at the begining) and then, into this file write the
 // files you do not want to git
+
+// in order to install all dependencies you can use
+// npm install
+// then it searchs in the content to find the package
+// Jason adn install all the dependencies
